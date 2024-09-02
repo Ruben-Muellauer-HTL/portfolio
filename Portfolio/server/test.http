@@ -1,0 +1,6 @@
+
+GET http://localhost:3000/timeline
+###
+GET http://localhost:3000/webprojects
+###
+GET http://localhost:3000/designs
